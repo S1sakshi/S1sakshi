@@ -13,7 +13,7 @@
 
 
 
-   Support
+
    For support, email shreyasakshi100@gmail.com or connect on Linkedin.
 
 
