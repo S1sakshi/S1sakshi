@@ -14,6 +14,6 @@
 
 
 
-   For support, email shreyasakshi100@gmail.com or connect on Linkedin.
+   For support, email shreyasakshi100@gmail.com or connect on Linkedin (https://www.linkedin.com/in/shreya-sakshi-b13ba518a/)
 
 
