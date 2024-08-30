@@ -6,15 +6,19 @@
      - I am a self driven passionate coder who loves to solve problems and write efficient codes.
      - My primary coding language: Java.
      - I am happy to discuss about: Data Structures and Algorithms, Programming in Java, 
-       Computer concepts(Operating Systems,Computer Networking, DBMS and OOPs concepts), HTML, CSS, JavaScript, Node.js and Git.
+        Computer concepts(Operating Systems,Computer Networking, DBMS and OOPs concepts), HTML, CSS, JavaScript, Node.js and Git.
      - I am looking forward to collaborate on Open-Source Projects.
      - I am just trying to impart my knowledge via repositories which will be quite helpful for those who code in Java.
 
 
 
 
-For support, email shreyasakshi100@gmail.com  
-Connect on Linkedin (https://www.linkedin.com/in/shreya-sakshi-b13ba518a/)
-My Portfolio : https://s1sakshi.github.io/My_Portfolio_Website/
+For support, 
+
+**Email at**: shreyasakshi100@gmail.com  
+
+**Connect on LinkedIn**: (https://www.linkedin.com/in/shreya-sakshi-b13ba518a/)
+
+**My Portfolio**: https://s1sakshi.github.io/My_Portfolio_Website/
 
 
