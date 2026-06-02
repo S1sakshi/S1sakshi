@@ -1,6 +1,6 @@
 👋 Hi, I’m Shreya Sakshi
 - 
- 🚀 I'm a passionate Software Engineer with 2.5 years of experience in web development and backend systems. 
+ 🚀 I'm a passionate Software Engineer with hands-on experience in web development and backend systems using Java, SpringBoot. 
       I love learning new technologies, solving complex problems and building efficient & scalable solutions.
  
      - I am a self driven passionate coder who loves to solve problems and write efficient codes.
